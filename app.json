@@ -1,0 +1,29 @@
+ 
+
+
+{
+  "expo": {
+    "name": "NovaCasaApp",
+    "slug": "NovaCasaApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/img/logo_name.png",
+
+
+    "splash": {
+  "image": "./src/assets/img/splash_full.png",
+  "backgroundColor": "#05061B",
+  "resizeMode": "contain"
+},
+     
+  
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/img/logo_name.png",
+        "backgroundColor": "#05061B"
+      },
+      "package": "com.azboxmoc.NovaCasaApp"
+    }
+    
+  }
+}
